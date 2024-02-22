@@ -85,4 +85,3 @@ npm run data:import
 npm run data:destroy
 ```
 
-# complete-e-commerce-ap-MERN-
